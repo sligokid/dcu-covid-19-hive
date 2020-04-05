@@ -1,0 +1,7 @@
+1,Suresh,32,Muradabad,8000.00
+2,Khiran,23,kashmir,6000.00
+3,shilpa,21,Ranchi,8000.00
+4,Chandan,23,Patliputra,26000.00
+5,Harsha,24,Chandighar,34000.00
+6,Manohar,20,UP,18000.00
+7,Mufty,22,Lakhnow,40000.00
