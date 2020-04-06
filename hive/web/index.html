@@ -31,15 +31,15 @@
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 2,
-          center: {lat: 37.775, lng: -122.434},
+          zoom: 3,
+          center: {lat: 53.14, lng: 7.69},
           mapTypeId: 'roadmap'
         });
 
         fetch('static/test.json').then(function(response) {
           response.json().then(function(result) {
             let locations = result.map((val) => {
-              return new google.maps.LatLng(val.lat, val.long);
+              return new google.maps.LatLng(val.lat, val.long, val.cases);
             })
 
             heatmap = new google.maps.visualization.HeatmapLayer({
