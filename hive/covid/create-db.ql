@@ -1,0 +1,1 @@
+CREATE DATAVASE covid19;
