@@ -1,4 +1,9 @@
-# JavaScript-HeatMap-Creator
+# COVID-19 Heatmap
+
+Live Endpoint:
+http://34.66.242.221:8080/
+
+## JavaScript-HeatMap-Creator
 Create HeatMaps with JavaScript and Your Google Location History
 
 Credit for this heatmap: https://codeburst.io/how-i-created-a-heatmap-of-my-location-history-with-javascript-google-maps-972a2d1be240
