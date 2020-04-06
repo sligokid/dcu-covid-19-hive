@@ -11,3 +11,5 @@ Create HeatMaps with JavaScript and Your Google Location History
 apt-get update
 apt-get install npm jq
 npm install -g csvtojson
+
+csvtojson public/covid-latest-report-2020-04-05.csv > public/test.json
