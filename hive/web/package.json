@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An easy way to visualize your location history with Google and JavaScript",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "path": "^0.12.7"
   },
   "scripts": {
